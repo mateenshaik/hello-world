@@ -141,9 +141,9 @@ input[type=submit]:hover {
 <div class="container">
   <form action="/action_page.php">
     <div class="row">
-      <h2 style="text-align:center">Login with Social Media or Manually</h2>
+      <h2 style="text-align:center">LOGIN</h2>
       <div class="vl">
-        <span class="vl-innertext">or</span>
+        <span class="vl-innertext">OR</span>
       </div>
 
       <div class="col">
