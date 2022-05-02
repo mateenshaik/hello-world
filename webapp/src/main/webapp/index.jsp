@@ -50,10 +50,10 @@ Address
 <textarea cols="80" rows="5" value="address">  
 </textarea>  
 <br> <br>  
-plz22222 Email enter:  
+plz new Email enter:  
 <input type="email" id="email" name="email"/> <br>    
 <br> <br>  
-plz22222 Password:  
+plz new Password:  
 <input type="Password" id="pass" name="pass"> <br>   
 <br> <br>  
 Re-type222 password:  
