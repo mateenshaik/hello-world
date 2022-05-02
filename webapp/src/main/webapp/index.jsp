@@ -50,13 +50,13 @@ Address
 <textarea cols="80" rows="5" value="address">  
 </textarea>  
 <br> <br>  
-plz2 Email:  
+plz22222 Email:  
 <input type="email" id="email" name="email"/> <br>    
 <br> <br>  
-plz2 Password:  
+plz22222 Password:  
 <input type="Password" id="pass" name="pass"> <br>   
 <br> <br>  
-Re-type password:  
+Re-type222 password:  
 <input type="Password" id="repass" name="repass"> <br> <br>  
 <input type="button" value="Submit"/>  
 </form>  
