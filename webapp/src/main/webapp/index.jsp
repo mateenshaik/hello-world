@@ -50,7 +50,7 @@ Address
 <textarea cols="80" rows="5" value="address">  
 </textarea>  
 <br> <br>  
-plz22222 Email:  
+plz22222 Email enter:  
 <input type="email" id="email" name="email"/> <br>    
 <br> <br>  
 plz22222 Password:  
